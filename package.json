@@ -1,0 +1,22 @@
+{
+  "name": "com.islamvalizada.terraindecorator",
+  "version": "1.0.0",
+  "displayName": "Terrain Decorator Pro",
+  "description": "Professional procedural terrain generation, 6-layer PBR splatmapping, rock clustering, and vegetation scatter tool for Unity URP.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Islam Valizada",
+    "url": "https://github.com/Devrimano"
+  },
+  "keywords": [
+    "terrain",
+    "environment",
+    "procedural",
+    "foliage",
+    "vegetation",
+    "urp",
+    "splatmap",
+    "decorator"
+  ],
+  "dependencies": {}
+}
